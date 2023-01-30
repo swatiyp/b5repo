@@ -1,5 +1,0 @@
-learning revert to revert from remote to local
-first git revert commit id
-next pull the changes
-needd to push rhe changes
-git push oirin
